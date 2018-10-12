@@ -4,5 +4,5 @@ A new Flutter project.
 
 ## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+1st time trying to make a log in.
+Based on the video : https://www.youtube.com/watch?v=_vJZsdCC2EU
